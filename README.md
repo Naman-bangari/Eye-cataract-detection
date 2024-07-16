@@ -50,7 +50,7 @@ This project focuses on detecting eye cataracts using a convolutional neural net
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/yourusername/yourrepository.git](https://github.com/Naman-bangari/Eye-cataract-detection.git
     ```
 
 2. **Install the Required Dependencies**:
