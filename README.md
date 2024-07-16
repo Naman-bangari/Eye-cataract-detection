@@ -62,6 +62,7 @@ This project focuses on detecting eye cataracts using a convolutional neural net
     ```bash
     streamlit run app.py
     ```
+    or
     ```bash
     python -m streamlit run app.py
     ```
